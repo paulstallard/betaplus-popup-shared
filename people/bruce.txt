@@ -1,0 +1,3 @@
+This is Bruce
+I am editing this in Notepad++ (so I get unix line endings)
+All OK?
