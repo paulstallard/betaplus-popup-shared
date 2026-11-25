@@ -1,3 +1,4 @@
 Hi Barry here
 I am also using Notepad++
 Just flondering around at the moment
+Added an extra line
